@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Glukonian/Glukonian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hi
+
+I mostly use this account for reporting issues, but who knows, I might code something sometime in the future...
