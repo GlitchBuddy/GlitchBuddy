@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 
 hi
 
-I mostly use this account for reporting issues, but who knows, I might code something sometime in the future...
+i mostly use this account for reporting issues
+
+but who knows
+
+i might code something sometime in the future
+
+wouldn't that be cool
